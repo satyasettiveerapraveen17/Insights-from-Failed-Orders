@@ -5,3 +5,9 @@ Based on the analysis the Driver not assigned cancellation occuring more in the 
 
 ![alt text](image.png)  
 ![alt text](image2.png)
+
+
+
+Based on the trending line chart
+ - - Driver NOT assigned and cancelled by client has the max trending line 
+![alt text](image-1.png)
