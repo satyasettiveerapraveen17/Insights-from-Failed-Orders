@@ -5,4 +5,5 @@ dbt/dbt_packages/
 dbt/logs/
 .ipynb_checkpoints/
 
+__marimo__
 /datasets
