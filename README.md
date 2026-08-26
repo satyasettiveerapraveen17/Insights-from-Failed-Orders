@@ -1,6 +1,13 @@
 # Key Insights & Visualizations
 
-- prerequirments : Install the marimo polars and plotly 
+### Prerequisites
+
+Install the following Python packages before running the project:
+
+* `marimo`
+* `polars`
+* `plotly`
+
 
 ## Based on the analysis the Driver not assigned cancellation occuring more in the system 
 - cancelled by the system happend 99.99% - 3406
